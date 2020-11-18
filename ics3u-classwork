@@ -1,0 +1,59 @@
+# Hello-world
+ # Hello-world
+ Hey bro.
+ I'm glad that I learn some new technical knowledge in Computer area.
+ Deep dark fantacy!
+ 
+ 
+ 
+ Solving real life problems from the machine’s perspective.
+
+Problem 1: The cookie is too big for the glass 
+  1. How do you fix this problem?
+    - Using disintegrator to smash the cookie in to small pieces. 
+    - Grab the cookie's pieces. 
+    - Reach to the glass.
+    - Put the pieces into the glass slowly/softly.
+    - Return to original position. 
+  2. How can you prevent this problem?
+    - Grab smaller cookies/Smash it into smaller pieces first.
+  3. How can this problem be solved with an app?
+    - Using the app to control the machine
+    - Control the machine to move to the glass's position
+    - Smash the cookie in to small pieces. 
+    - Grab the cookie's pieces. 
+    - Reach to the glass.
+    - Put the pieces into the glass slowly/softly.
+    
+Problem 2: The spoon dropped into the gravy
+  1. How do you fix this problem?
+    - Moving Robotic arm forward until reach the spoon's position. 
+    - Pick up the spoon slowly without splitting any soup/liquid.
+    - Put the spoon on the edge of the gravy. 
+    - Wait for 3 seconds until the spoon is stable, moving back to the original position.
+  2. How can you prevent this problem?
+    - Design an small alarm bell, the alarm will ring when the spoon is going to fall, which warns people to pay attention on the falling spoon. 
+  3. How can this problem be solved with a robotic system?
+    - Moving forward until reach the spoon's position. 
+    - Pick up the spoon slowly without splitting any soup/liquid. 
+    - Put one side of the spoon on the edge of the gravy slowly. 
+    - Wait for 3 seconds until the spoon is stable, moving back to the original position. 
+    
+Problem 3: People who can’t park
+  1. How do you fix this problem?
+    - Erase the original parking lot. 
+    - Using digital parking space, which sizes can change according to the size of the veicles. 
+  2. How can you prevent this problem?
+    - Using visual, digital parking space, which sizes can change according to the size of the veicles.
+    - If there's a big truck going to park here, make a projection to the ground that imitate there's a parking space. 
+  3. How can this problem be solved with a robotic and/or software solution?
+    - Using Python to programming the process above. 
+People hogging seats with bags
+  1. How do you fix this problem?
+    - Put the bags on the top of the bus/train uniformly. 
+  2. How can you prevent this problem?
+    - Design a place to storage those bagsUsing Moving machine to put the bags up to that place(the top of the bus). 
+  3. How can this problem be solved with a technological solution?
+    - Create a metal arm around the seat that doesn't bother passengers to rest comfortablely. 
+    - Remove the big and heavy bags to the top of the bus slowly. 
+    - Return to the original position carefully(without hurting the passengers)
